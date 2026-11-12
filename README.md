@@ -6,7 +6,8 @@
   <a href="https://github.com/kushalr5600-commits/blackbox">BLACKBOX</a> ·
   <a href="https://github.com/kushalr5600-commits/computational_rnd_engine">computational_rnd_engine</a> ·
   <a href="https://github.com/kushalr5600-commits/nexus-os">nexus-os</a> ·
-  <a href="https://github.com/kushalr5600-commits/kkr">kkr</a>
+  <a href="https://github.com/kushalr5600-commits/kkr">kkr</a> ·
+  <a href="https://www.linkedin.com/in/kushal-kumar-r-73437143b">LinkedIn</a>
 </p>
 
 ## About me
@@ -71,7 +72,7 @@ Preparing for the **Scaler University DevForge Hackathon**. Open to collaboratio
 - Post-quantum hardware design and verification · CPU/GPU exploration tooling
 - Decision-intelligence / agentic systems with honest evaluation
 
-Best way to reach me: open an issue or a discussion on any of my repositories — I read everything.
+**Find me:** [LinkedIn](https://www.linkedin.com/in/kushal-kumar-r-73437143b) · open an issue or a discussion on any of my repositories — I read everything.
 
 <p align="center">
   <sub>Built solo. Verified where it matters. Documented where it doesn't.</sub>
